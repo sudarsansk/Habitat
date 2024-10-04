@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Breakfast",
+      "checked": true,
+      "category": "Break",
+      "description": "A very unfortunate but all-too-common situation in higher education is the challenges students face from poor time management ry unfortunate but all-too-common situation in higher education is the challenge"
+    },
+    {
+      "id": "2",
+      "title": "Workout",
+      "checked": false,
+      "category": "Library",
+      "description": "A very unfortunate but all-too-common situation in higher education is the challenges students face from poor time management"
+    },
+    {
+      "id": "3",
+      "title": "Work",
+      "checked": false,
+      "category": "Sports",
+      "description": "A very unfortunate but all-too-common situation in higher education is the challenges students face from poor time management"
+    },
+    {
+      "id": "4",
+      "title": "Cycling",
+      "checked": false,
+      "category": "Sports",
+      "description": "Good for Health"
+    },
+    {
+      "id": "5",
+      "title": "Reading Books",
+      "checked": false,
+      "category": "Library",
+      "description": "Enhancing the Skill"
+    },
+    {
+      "id": 6,
+      "title": "Dinner",
+      "checked": false,
+      "category": "Sports",
+      "description": "Dinner"
+    }
+  ]
+}
